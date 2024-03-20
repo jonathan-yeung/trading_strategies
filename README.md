@@ -1,6 +1,6 @@
 # Quant/Algo Trading on Bitcoin - Analysis and Backtesting
 
-# About The Project
+## About The Project
 
 In this project, I intend to find insights about the Bitcoin market and backtest strategies to see whether they are effective.
 
@@ -10,11 +10,11 @@ Some main types of strategies will be tested:
 
 New ideas might be added to the project in the future.
 
-# About The Dataset
+## About The Dataset
 
 It is extracted from Yahoo Finance, which is originally from CoinMarketCap.
 
-# Project Organization
+## Project Organization
 
 * `notebooks`
     - Notebook_01_Data-Preparation.ipynb
