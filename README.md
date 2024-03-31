@@ -1,4 +1,4 @@
-# Quant/Algo Trading on Bitcoin
+# Quant/Algo Trading On Bitcoin
 
 Interactive charts in the notebooks can be viewed at the following links:
 - Notebook 01: https://jonathan-yeung.github.io/algo-nb01/
